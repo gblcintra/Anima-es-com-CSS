@@ -1,4 +1,4 @@
-<center><h1>Animação com CSS3</h1></centerFeatures>
+<h1>Animação com CSS3</h1>
 
 <p>Criação de animação de onda com animation.</p>
 
