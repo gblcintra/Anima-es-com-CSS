@@ -2,5 +2,5 @@
 
 <center><p>Criação de animação de onda com animation.</p></centerFeatures>
 
-<center>![Farmers Market Finder Demo](Img/animate.gif)</centerFeatures>
+<center>![GifDemo](https://github.com/gblcintra/Animacao-com-CSS/edit/master/Img/animate.gif)</centerFeatures>
 
