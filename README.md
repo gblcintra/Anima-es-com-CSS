@@ -1,6 +1,6 @@
 <center><h1>Animação com CSS3</h1></centerFeatures>
 
-<center><p>Criação de animação de onda com animation.</p></centerFeatures>
+<p>Criação de animação de onda com animation.</p>
 
-<center>![GifDemo](https://github.com/gblcintra/Animacao-com-CSS/edit/master/Img/animate.gif)</centerFeatures>
+![GifDemo](https://github.com/gblcintra/Animacao-com-CSS/edit/master/Img/animate.gif)
 
